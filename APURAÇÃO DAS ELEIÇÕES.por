@@ -3,6 +3,8 @@ programa
 	
 	funcao inicio()
 	{
+
+		
 		inteiro candidato, idade
 		escreva("==========================================")
 		escreva("           APURAÇÃO DAS ELEIÇÕES          ")
