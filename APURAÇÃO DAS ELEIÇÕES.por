@@ -3,6 +3,8 @@ programa
 	
 	funcao inicio()
 	{
+
+		#fraude
 		inteiro candidato, idade
 		escreva("==========================================")
 		escreva("           APURAÇÃO DAS ELEIÇÕES          ")
